@@ -1,9 +1,7 @@
 import axios from 'axios';
 
-// dummy comment to make a commit so now.sh triggers a build
-
 const baseURL = `https://app.gitkraken.com/api/glo/v2`
-const board_id = '5ade0bef5fa6780e00e4821c';
+const board_id = '5b2d87bfb8e25210005d0c6a';
 
 const glo = axios.create({
     baseURL,
