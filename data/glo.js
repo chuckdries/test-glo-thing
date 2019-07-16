@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const baseURL = `https://app.gitkraken.com/api/glo/v2`
-const board_id = '5d27a1c198d023000f8cf0e5';
+const board_id = '5ade0bef5fa6780e00e4821c';
 
 const glo = axios.create({
     baseURL,
