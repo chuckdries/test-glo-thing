@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "name": "my-glo-next-site",
+    "regions": ["sfo"],
+    "builds": [
+      { "src": "package.json", "use": "@now/next" }
+    ]
+  }
+  

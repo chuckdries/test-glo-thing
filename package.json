@@ -1,0 +1,16 @@
+{
+  "name": "glo-next",
+  "version": "0.1.0",
+  "description": "Create a serverless Next.js app backed by GitKraken Glo",
+  "main": "index.js",
+  "repository": "https://github.com/James-Quigley/glo-next.git",
+  "author": "James Quigley",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-ssr-prepass": "^1.0.5"
+  }
+}
